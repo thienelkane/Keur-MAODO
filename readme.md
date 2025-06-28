@@ -1,4 +1,4 @@
-![KEUR MAODO - Bannière](assets/banner.png)
+![KEUR MAODO - Bannière](assets/banner.jpg)
 
 # KEUR MAODO
 
