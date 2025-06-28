@@ -1,8 +1,8 @@
-![KEUR MAODO - Bannière](assets/banner.jpg)
-
 # KEUR MAODO
 
 **Projet de réécriture numérique et de préservation des œuvres de Cheikh Seydil Hadj Malick Sy**
+
+![KEUR MAODO - Bannière](assets/banner.jpg)
 
 ---
 
