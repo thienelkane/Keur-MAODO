@@ -1,0 +1,55 @@
+# === SYSTEM FILES ===
+.DS_Store
+Thumbs.db
+desktop.ini
+structure.txt
+
+
+# === PYTHON / JUPYTER ===
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# === OUTPUT FILES ===
+*.pdf
+*.docx
+*.epub
+*.out
+*.log
+*.aux
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# === BUILD / TEMP FILES ===
+.quarto/
+.quarto-cache/
+_build/
+_site/
+
+# === SCRIPTS AND GENERATED DATA ===
+scripts/__pycache__/
+scripts/*.pyc
+
+# === NODE/WEB TOOLS (if used) ===
+node_modules/
+dist/
+build/
+
+# === BACKUPS ===
+*~
+*.bak
+*.swp
+*.tmp
+
+# === GITHUB PAGES (if deployed from another branch) ===
+# (Uncomment if you're building pages elsewhere)
+# docs/
+
+# === CUSTOM EXCLUSIONS ===
+# Uncomment if you generate PDFs locally and want to exclude them:
+# ouvrages/**/livre.pdf
+# ouvrages/**/livre-transcrit.pdf
