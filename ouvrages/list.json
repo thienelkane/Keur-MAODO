@@ -1,0 +1,16 @@
+[
+  {
+    "titre": "Mawlid",
+    "slug": "mawlid",
+    "auteur": "Cheikh Malick Sy",
+    "pdf_arabe": "https://thienelkane.github.io/keur-maodo/ouvrages/mawlid/livre.pdf",
+    "pdf_transcrit": "https://thienelkane.github.io/keur-maodo/ouvrages/mawlid/livre-transcrit.pdf"
+  },
+  {
+    "titre": "Khassaide",
+    "slug": "khassaide",
+    "auteur": "Cheikh Malick Sy",
+    "pdf_arabe": "https://thienelkane.github.io/keur-maodo/ouvrages/khassaide/livre.pdf",
+    "pdf_transcrit": "https://thienelkane.github.io/keur-maodo/ouvrages/khassaide/livre-transcrit.pdf"
+  }
+]
