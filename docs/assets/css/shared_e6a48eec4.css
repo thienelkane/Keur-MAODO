@@ -4940,7 +4940,7 @@ figcaption {
 .rt-component-heading-five.rt-awards-text.xassida_title {
   color: var(--color-style--title-color);
   font-family: Droid Sans, sans-serif;
-  font-size: 1.3rem;
+  /* font-size: 2rem !important; */
   font-weight: 700;
 }
 
@@ -6156,6 +6156,10 @@ figcaption {
     justify-content: flex-start;
     align-items: flex-end;
   }
+
+/*  .xassida_title {
+    font-size: 2rem !important;
+  }*/
 }
 
 @media screen and (min-width: 1440px) {
@@ -6179,6 +6183,10 @@ figcaption {
     display: block;
     left: -12%;
   }
+
+/*  .xassida_title {
+    font-size: 2rem !important;
+  }*/
 }
 
 @media screen and (min-width: 1920px) {
@@ -6198,6 +6206,10 @@ figcaption {
   .combine-section_header1 {
     width: 1240100%;
   }
+
+/*  .xassida_title {
+    font-size: 2rem !important;
+  }*/
 
   .combine-feature2_image-wrapper {
     width: auto;
@@ -6230,6 +6242,8 @@ figcaption {
   .rt-location-icon {
     margin-bottom: 15px;
   }
+
+
 }
 
 @media screen and (max-width: 991px) {
@@ -6943,6 +6957,11 @@ figcaption {
     margin-left: 8px;
     position: static;
   }
+
+/*  .xassida_title {
+    font-size: 3rem !important;
+  }*/
+
 }
 
 @media screen and (max-width: 767px) {
@@ -7419,9 +7438,9 @@ figcaption {
     position: static;
   }
 
-  .f-accordian-title-2.rt-component-heading-five.rt-awards-text.xassida_title {
+  /* .f-accordian-title-2.rt-component-heading-five.rt-awards-text.xassida_title {
     font-size: 1.1rem;
-  }
+  } */
 
   .rt-heading-three {
     font-size: 24px;
@@ -7475,6 +7494,10 @@ figcaption {
     align-items: center;
     font-size: .8125rem;
   }
+
+/*  .xassida_title {
+    font-size: 3rem !important;
+  }*/
 }
 
 @media screen and (max-width: 479px) {
@@ -7956,6 +7979,10 @@ figcaption {
   .rt-footer-three-main {
     flex-flow: column;
   }
+
+/*  .xassida_title {
+    font-size: 3rem !important;
+  }*/
 }
 
 #w-node-_44712d08-a7d2-2103-6db1-2131c0aa4068-d4f78adc {
@@ -7970,16 +7997,35 @@ figcaption {
   #w-node-_44712d08-a7d2-2103-6db1-2131c0aa4068-d4f78adc {
     justify-self: center;
   }
+
+  .xassida_title {
+    font-size: 2rem !important;
+  }
 }
 
 @media screen and (min-width: 1440px) {
   #w-node-_44712d08-a7d2-2103-6db1-2131c0aa4068-d4f78adc {
     grid-area: span 1 / span 1 / span 1 / span 1;
   }
+
+  .xassida_title {
+    font-size: 2rem !important;
+  }
+}
+
+@media screen and (min-width: 991px) {
+
+  .xassida_title {
+    font-size: 1.8rem !important;
+  }
 }
 
 @media screen and (max-width: 991px) {
   #w-node-_44712d08-a7d2-2103-6db1-2131c0aa4068-d4f78adc, #w-node-_44712d08-a7d2-2103-6db1-2131c0aa4053-d4f78adc {
     justify-self: center;
+  }
+
+  .xassida_title {
+    font-size: 1.7rem !important;
   }
 }

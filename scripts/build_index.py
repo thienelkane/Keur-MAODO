@@ -1,1 +1,0 @@
-# Génère `ouvrages.html` dynamiquement

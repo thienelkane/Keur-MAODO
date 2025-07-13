@@ -1,0 +1,69 @@
+@font-face {
+  font-family: 'Scheherazade New';
+  src: url('./fonts/Scheherazade_New/ScheherazadeNew-Regular.ttf') format('truetype');
+}
+
+@page {
+  size: A4;
+  margin: 10px;
+  background: #D8D5C9;
+
+  border: 3px solid #333;
+  outline: 3px solid #333;
+  outline-offset: -10px;
+}
+
+body {
+  counter-reset: arab-line;
+}
+
+/* p {
+  margin-bottom: 10px;
+} */
+
+.strophe {
+  margin-top: 40px;
+  page-break-inside: avoid;
+  break-inside: avoid;
+  padding-top: 20px;
+}
+
+/* Vers arabe */
+.vers-ar-left {
+  font-family: 'Scheherazade New', serif;
+  font-size: 45px;
+  color: #8B0000;
+  direction: rtl;
+  text-align: right;
+  line-height: 1.4;
+  margin: 5px;
+  font-weight: bold;
+  margin-right: 20px;
+}
+
+.vers-ar-right {
+  font-family: 'Scheherazade New', serif;
+  font-size: 45px;
+  color: #0d47a1;
+  direction: rtl;
+  text-align: left;
+  line-height: 1.4;
+  margin: 5px 0;
+  font-weight: bold;
+  margin-left: 20px;
+}
+
+
+.vers-tr {
+  font-family: 'Times New Roman', serif;
+  font-size: 25px;
+  color: black;
+  direction: ltr;
+  text-align: center;
+  line-height: 1;
+  margin: 10px 0 10px 0;
+  font-weight: bold;
+}
+
+
+/* node generate.js */

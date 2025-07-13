@@ -53,3 +53,10 @@ build/
 # Uncomment if you generate PDFs locally and want to exclude them:
 # ouvrages/**/livre.pdf
 # ouvrages/**/livre-transcrit.pdf
+
+# les files test
+al_bourda/
+
+# Ignorer les fichiers spécifiques
+list.json
+ouvrages.html
