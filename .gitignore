@@ -59,4 +59,4 @@ al_bourda/
 
 # Ignorer les fichiers spécifiques
 list.json
-ouvrages.html
+# ouvrages.html
